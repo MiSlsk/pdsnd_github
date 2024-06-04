@@ -12,6 +12,23 @@ Memoize helper function
 ### Files used
 memoize.py
 
+### Example
+```
+from memoize import memoize
+
+@memoize
+def fib(n):
+    if n < 2:
+        return n
+    return fib(n-1) + fib(n-2)
+
+if __name__ == '__main__':
+    print(fib(5))
+    print(fib(25))
+    print(fib(50))
+    print(fib(100))
+```
+
 ### Credits
 Thank you Udacity for the contecn.
 The most interesting project so far is this one
