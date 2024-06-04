@@ -10,8 +10,10 @@ Memoize helper function
 **Wrapper function** _to cache_ temporary results and _speed up_ calculations.
 
 ### Files used
-Include the files used
+memoize.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thank you Udacity for the contecn.
+The most interesting project so far is this one
+[Advanced Python Techniques](https://github.com/udacity/cd0010-advanced-python-techniques-project-starter.git)
 
