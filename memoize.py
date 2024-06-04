@@ -1,6 +1,7 @@
 import functools
 
 def memoize(function):
+    """Wrapper function to cache temporary results and speed up calculations."""
     function._cache = {}
             
     @functools.wraps(function)
