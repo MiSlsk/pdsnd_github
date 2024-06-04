@@ -1,3 +1,5 @@
+"""Helper functions"""
+
 import functools
 
 def memoize(function):
