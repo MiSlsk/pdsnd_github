@@ -4,10 +4,10 @@
 2024-06-04
 
 ### Project Title
-Replace the Project Title
+Memoize helper function
 
 ### Description
-Describe what your project is about and what it does
+**Wrapper function** _to cache_ temporary results and _speed up_ calculations.
 
 ### Files used
 Include the files used
